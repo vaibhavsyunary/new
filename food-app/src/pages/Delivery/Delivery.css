@@ -1,0 +1,16 @@
+.delivery-item {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  border: 1px solid;
+  padding: 8px 10px;
+}
+
+
+.delivery-item-list {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2rem;
+}
+
